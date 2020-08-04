@@ -1,5 +1,6 @@
 "PKGNAME": {
             "name": "PKG2NAME",
             "description": "ABOUT",
+            "version": "VERSION",
             "url": "ICLOUDLINK"
         }
