@@ -1,1 +1,21 @@
+{
+    "name": "Test",
+    "url": "https://raw.githubusercontent.com/MinecraftPublisher/ant/master/repo",
+    "packages": {
+        
+"Fancy Folder Maker": {
+            "name": "Fancy Folder Maker",
+            "description": "A folder maker",
+            "version": "1",
+            "url": "https://www.icloud.com/shortcuts/e2d345a0abeb4127a2aa40d123120753"
+        }
 
+"E27’s Shortcut Store": {
+            "name": "E27’s Shortcut Store",
+            "description": "Hello",
+            "version": "1.4",
+            "url": "https://www.icloud.com/shortcuts/1e74bb1f4ad5455e8ab8316b822368bc	"
+        }
+
+    }
+}
